@@ -1,0 +1,28 @@
+body 
+{
+    padding: 10px;
+
+}
+.input-group 
+{
+    margin: 0 0 10px 0;
+}
+h1
+{
+    text-align: center;
+}
+li 
+{
+    margin: 2px;
+}
+ul {
+    display: flex;
+    
+}
+.edit-btn {
+    float: right;
+    margin-right: 5px;
+}
+.del-btn {
+    float: right;
+}
